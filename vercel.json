@@ -11,5 +11,8 @@
         "dest": "/src/public/views/index.html"
       }
     ]
-  }
+  },
+{
+  "installCommand": "npm install -D tailwindcss npx tailwindcss init"
+}
   
